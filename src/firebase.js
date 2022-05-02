@@ -4,6 +4,12 @@ import "firebase/firestore";
 import "firebase/storage";
 
 const app = firebase.initializeApp({
+  apiKey: "AIzaSyDpvCa3kQR9H7Be8KKp8rCLLnGoiW4_Xv4",
+  authDomain: "college-77331.firebaseapp.com",
+  projectId: "college-77331",
+  storageBucket: "college-77331.appspot.com",
+  messagingSenderId: "503869470607",
+  appId: "1:503869470607:web:3bd8dd763b8b2f6df6bdfa"
   // HERE YOU HAVE TO PUT YOUR CONFIG VARIABLES WHICH FIREBASE WILL GIVE YOU
   // GO TO FIREBASE, CREATE A PROJECT THEN ADD A WEB APP
   // THEN GO TO PROJECT SETTINGS AND SCROLL TO THE BOTTOM

@@ -1,6 +1,6 @@
 ## About project
 
-LurbDisk is a website which provides free cloud storage.
+Cloud Bucket is a website which provides free cloud storage.
 
 It is a Reactjs based project.<br />
 The databases, hosting and the authentication services are taken from firebase.
